@@ -1,0 +1,12 @@
+function: greet
+positional parameters: none
+keyword parameters: none
+return: None
+function: check_all_true
+positional parameters: (True, True, False)
+keyword parameters: none
+return: False
+function: accept_keywords
+positional parameters: none
+keyword parameters: {'city': 'Trumbull', 'state': 'Connecticut'}
+return: <function logger_decorator at 0x10ea6b6a0>
