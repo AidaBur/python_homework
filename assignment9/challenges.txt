@@ -1,0 +1,3 @@
+One challenge was locating the Top 10 section because there were no clear class names or IDs. 
+I had to use XPath to find the section by its ID and then navigate to the correct <a> elements. 
+Another challenge was making sure the links included only real Top 10 entries.

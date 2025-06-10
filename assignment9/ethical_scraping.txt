@@ -1,0 +1,13 @@
+1. Restricted sections:
+The following sections of the site are disallowed for general web crawlers:
+- /w/
+- /api/
+- /wiki/Special:
+
+Also, specific bots like GPTBot are completely disallowed.
+
+2. Rules for specific user-agents:
+Yes. The robots.txt includes specific rules for different user-agents. For example, GPTBot is disallowed from accessing any part of the site.
+
+3. Why websites use robots.txt:
+Websites use robots.txt to set boundaries for automated programs. It helps prevent overloading their servers and protects sensitive or non-public areas. Respecting robots.txt is part of ethical web scraping because it shows that we follow site rules and don’t harm their infrastructure.
